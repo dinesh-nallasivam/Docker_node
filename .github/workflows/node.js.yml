@@ -29,6 +29,6 @@ jobs:
     - run:
         npm i
         node server.js
-        curl http://localhost:3000
+        curl http://localhost:8000
         
    
